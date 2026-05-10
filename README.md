@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="logo.jpeg" alt="Sentify Logo" width="150" style="border-radius: 20px;"/>
   <h1>Sentify | Multilingual Neural Analytics Engine</h1>
   <p><b>Enterprise-Grade Natural Language Processing and 3D Data Intelligence</b></p>
 </div>
