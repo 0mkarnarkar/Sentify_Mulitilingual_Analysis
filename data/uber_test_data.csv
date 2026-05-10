@@ -1,0 +1,101 @@
+Review_ID,Ride_Type,Customer_Feedback
+1,UberX,The driver was very polite and the car was spotless. Highly recommend.
+2,UberX,He canceled on me after making me wait for 20 minutes! So angry.
+3,UberX,Normal ride. Got to my destination safely and on time.
+4,UberX,Fantastic playlist and a very smooth drive to the airport.
+5,UberX,The car smelled strongly of cigarette smoke. Very unpleasant.
+6,Uber Black,Luxury at its finest. The driver opened the door for me. 5 stars.
+7,Uber Black,For the premium price I paid I expected a cleaner vehicle.
+8,Uber Black,It was an okay ride but nothing worth the extra surge pricing.
+9,Uber Black,Professional driver and extremely comfortable leather seats.
+10,Uber Black,Driver was speeding and making reckless lane changes. Terrifying.
+11,UberXL,Perfect size for my family and all our luggage.
+12,UberXL,The AC was broken in the back row and it was freezing.
+13,UberXL,Standard trip. Driver was quiet and followed the GPS.
+14,UberXL,Very accommodating driver who helped us load our heavy bags.
+15,UberXL,Suspension was terrible. I felt every single bump on the road.
+16,Uber Auto,Quick and easy way to navigate through city traffic.
+17,Uber Auto,The driver asked for extra cash outside the app. Unacceptable.
+18,Uber Auto,Regular auto ride. Nothing much to say.
+19,Uber Auto,Breezy and fun ride. The driver knew all the shortcuts.
+20,Uber Auto,Driver refused to drop me at my exact location.
+21,UberX,ड्रायव्हर वेळेवर आला आणि गाडी खूप स्वच्छ होती.
+22,UberX,मला 15 मिनिटे वाट पाहायला लावली आणि मग कॅन्सल केले!
+23,UberX,साधा प्रवास होता. वेळेवर पोहोचलो.
+24,UberX,ड्रायव्हिंग खूप छान आणि सुरक्षित होती.
+25,UberX,गाडीमध्ये खूप घाण वास येत होता.
+26,Uber Auto,ट्रॅफिकमध्ये लवकर पोहोचण्यासाठी उत्तम पर्याय.
+27,Uber Auto,ड्रायव्हरने ॲप व्यतिरिक्त जास्तीचे पैसे मागितले.
+28,Uber Auto,रोजचा प्रवास. सर्व ठीक होते.
+29,Uber Auto,ड्रायव्हर खूप नम्र होता आणि गाडी वेगात चालवली नाही.
+30,Uber Auto,मला चुकीच्या ठिकाणी सोडले. खूप त्रास झाला.
+31,Uber Moto,यह सर्विस बहुत तेज है। मैं ऑफिस समय पर पहुँच गया।
+32,Uber Moto,ड्राइवर ने हेलमेट नहीं दिया। यह बहुत खतरनाक है।
+33,Uber Moto,ठीक-ठाक सफर था।
+34,Uber Moto,बहुत ही बेहतरीन और सस्ता सफर।
+35,Uber Moto,ड्राइवर बहुत लापरवाही से बाइक चला रहा था।
+36,UberX,गाड़ी बहुत बढ़िया और आरामदायक थी।
+37,UberX,सर्ज प्राइसिंग बहुत ज्यादा थी। लूट मचा रखी है।
+38,UberX,यात्रा सामान्य रही। कोई दिक्कत नहीं हुई।
+39,UberX,ड्राइवर का व्यवहार बहुत ही अच्छा और मददगार था।
+40,UberX,एसी काम नहीं कर रहा था और गर्मी बहुत थी।
+41,Uber Black,El conductor fue muy profesional y amable.
+42,Uber Black,Conducción temeraria. Pasé mucho miedo.
+43,Uber Black,Un viaje estándar. Llegué a tiempo.
+44,Uber Black,Coche impecable y servicio de lujo.
+45,Uber Black,Demasiado caro para un servicio tan malo.
+46,UberX,La voiture était très propre et le chauffeur poli.
+47,UberX,Le chauffeur s'est perdu deux fois. Perte de temps.
+48,UberX,C'est d'accord. Trajet normal.
+49,UberX,Super expérience! Je recommande vivement.
+50,UberX,Odeur terrible dans le véhicule.
+51,UberXL,Tolle Fahrt. Sehr geräumig für unsere Gruppe.
+52,UberXL,Der Fahrer war sehr unhöflich zu uns.
+53,UberXL,Alles in Ordnung. Keine Probleme.
+54,UberXL,Sehr hilfsbereiter Fahrer beim Einladen des Gepäcks.
+55,UberXL,Viel zu teuer für eine kurze Strecke.
+56,Uber Moto,Fastest way to beat the morning rush hour.
+57,Uber Moto,Felt very unsafe. Driver was weaving through cars.
+58,Uber Moto,It got me there.
+59,Uber Moto,Super cheap and incredibly efficient.
+60,Uber Moto,Rain started pouring and the driver had no rain gear.
+61,UberX,Driver played my favorite radio station! Made my morning.
+62,UberX,Car was dirty inside and out. Unhygienic.
+63,UberX,Average.
+64,UberX,Five stars! Perfect driving.
+65,UberX,He took the longest route possible to increase the fare.
+66,Uber Auto,Great value for money.
+67,Uber Auto,Rude behavior from the auto driver.
+68,Uber Auto,Okay ride.
+69,Uber Auto,Smooth and breezy.
+70,Uber Auto,Terrible shocks. My back hurts now.
+71,Uber Black,Felt like a VIP the entire trip.
+72,Uber Black,Driver was on his phone texting while driving!
+73,Uber Black,Fine.
+74,Uber Black,Exceptional service from start to finish.
+75,Uber Black,Worst premium ride I have ever taken.
+76,UberXL,Plenty of legroom.
+77,UberXL,We barely fit because the trunk was full of his stuff.
+78,UberXL,It was acceptable.
+79,UberXL,Great for my airport run.
+80,UberXL,Horrible suspension.
+81,Uber Moto,Quick.
+82,Uber Moto,Dangerous.
+83,Uber Moto,Decent.
+84,Uber Moto,Awesome!
+85,Uber Moto,Awful.
+86,UberX,Perfetto!
+87,UberX,Pessimo.
+88,UberX,Normale.
+89,UberX,Brilliant!
+90,UberX,Garbage service.
+91,Uber Auto,Value for money.
+92,Uber Auto,Scam. He charged extra.
+93,Uber Auto,Whatever.
+94,Uber Auto,Highly recommended for quick trips.
+95,Uber Auto,Do not use this driver.
+96,Uber Black,Luxurious experience.
+97,Uber Black,Overpriced nonsense.
+98,Uber Black,Standard fare.
+99,Uber Black,Top tier professionalism.
+100,Uber Black,I am deleting this app.

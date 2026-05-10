@@ -1,0 +1,101 @@
+Review_ID,Product_Category,Amazon_Review
+1,Electronics,This 4K monitor is stunning. The colors are vibrant and setup was easy.
+2,Electronics,The battery died after two months. Contacted support but no response.
+3,Electronics,It is a basic mouse. It works but the clicking sound is a bit loud.
+4,Electronics,Absolutely love these noise-canceling headphones! Great for travel.
+5,Electronics,Do not buy this charger. It gets dangerously hot after 30 minutes.
+6,Books,The plot was engaging and the characters were well-developed. 5 stars.
+7,Books,The book arrived with a torn cover and missing pages. Very disappointed.
+8,Books,It was an okay read. A bit slow in the middle but a decent ending.
+9,Books,A masterpiece of modern literature. I couldn't put it down.
+10,Books,Waste of time. The writing style was very confusing and boring.
+11,Kitchen,This air fryer has changed my life. Everything comes out so crispy!
+12,Kitchen,The non-stick coating started peeling off after the first wash.
+13,Kitchen,It’s a standard toaster. It browns the bread eventually.
+14,Kitchen,Powerful blender! It handles frozen fruit and ice with ease.
+15,Kitchen,Leaks from the bottom every time I use it. Returning it today.
+16,Beauty,My skin has never looked better. Highly recommend this serum.
+17,Beauty,Caused a massive breakout on my face. Avoid if you have sensitive skin.
+18,Beauty,The scent is nice but it doesn't really do much for hydration.
+19,Beauty,Long-lasting lipstick that doesn't smudge. Love the shade range.
+20,Beauty,Smells like chemicals and feels very greasy on the skin.
+21,Electronics,हे हेडफोन्स खूप भारी आहेत! आवाज एकदम क्लिअर आहे.
+22,Electronics,चार्जिंग होत नाहीये. पैसे वाया गेले.
+23,Electronics,साधा चार्जर आहे. काम करतो पण खूप हळू आहे.
+24,Electronics,डिस्प्ले क्वालिटी अप्रतिम आहे. नक्की घ्या.
+25,Electronics,खूप गरम होतो. सेफ्टीसाठी धोकादायक वाटतो.
+26,Books,गोष्ट खूप छान आहे. एकदा नक्की वाचले पाहिजे.
+27,Books,पुस्तक फाटलेल्या अवस्थेत मिळाले. खूप वाईट वाटले.
+28,Books,ठिका ठिक आहे. खूप काही खास नाही.
+29,Books,लेखकाची लिहिण्याची पद्धत मला खूप आवडली.
+30,Books,खूपच कंटाळवाणे पुस्तक. वेळ वाया गेला.
+31,Kitchen,हे मिक्सर खूप पावरफुल आहे. काम सोपे झाले.
+32,Kitchen,एक आठवड्यातच खराब झाले. क्वालिटी चांगली नाही.
+33,Kitchen,वापरायला सोपे आहे पण आवाज खूप येतो.
+34,Kitchen,उत्कृष्ट प्रॉडक्ट! किचनसाठी खूप उपयोगी आहे.
+35,Kitchen,पाणी गळते खालून. अजिबात घेऊ नका.
+36,Beauty,हे क्रीम लावल्यावर चेहरा खूप छान दिसतो.
+37,Beauty,चेहऱ्यावर पुरळ आले. मला सूट झाले नाही.
+38,Beauty,सुगंध चांगला आहे पण रिझल्ट काही खास नाही.
+39,Beauty,अतिशय सुंदर शेड आहे. दिवसभर टिकते.
+40,Beauty,खूपच चिकट आहे. वापरताना त्रास होतो.
+41,Electronics,यह लैपटॉप बहुत तेज़ है। गेमिंग के लिए बेस्ट है।
+42,Electronics,स्क्रीन दो दिन में ही खराब हो गई। घटिया क्वालिटी।
+43,Electronics,ठीक ठाक है। ऑफिस के काम के लिए सही है।
+44,Electronics,साउंड क्वालिटी लाजवाब है! मजा आ गया।
+45,Electronics,ओवरहीटिंग की समस्या है। बैटरी भी जल्दी खत्म होती है।
+46,Books,कहानी बहुत प्रेरणादायक है। सबको पढ़नी चाहिए।
+47,Books,आधी अधूरी किताबें मिलीं। बहुत ही निराशाजनक।
+48,Books,औसत दर्जे की किताब। कुछ नया नहीं है।
+49,Books,बहुत ही बेहतरीन उपन्यास। शब्द कम पड़ जाएंगे।
+50,Books,बिलकुल बेकार। समझ ही नहीं आया क्या लिखा है।
+51,Kitchen,यह ओवन बहुत अच्छा है। बेकिंग बहुत बढ़िया होती है।
+52,Kitchen,गंदा और टूटा हुआ पीस मिला। वापस कर दिया।
+53,Kitchen,काम चलाऊ है। ज्यादा उम्मीद मत रखना।
+54,Kitchen,बहुत ही मजबूत और टिकाऊ प्रोडक्ट है।
+55,Kitchen,बदबू आती है प्लास्टिक की। इस्तेमाल के लायक नहीं।
+56,Beauty,यह फेस वाश बहुत कोमल है। स्किन सॉफ्ट हो गई।
+57,Beauty,एलर्जी हो गई। बहुत खुजली हो रही है।
+58,Beauty,खुशबू अच्छी है पर असर कम है।
+59,Beauty,प्रीमियम क्वालिटी। पैकेजिंग भी बहुत सुंदर है।
+60,Beauty,बहुत ही ऑइली है। चेहरा खराब हो गया।
+61,Toys,My son loves this robot! Keeps him entertained for hours.
+62,Toys,Broken parts inside the box. Very dangerous for kids.
+63,Toys,It’s okay for the price. The plastic feels a bit thin.
+64,Toys,Educational and fun. Best birthday gift ever.
+65,Toys,The remote control doesn't work at all. Waste of money.
+66,Home,The rug is so soft and fits perfectly in my living room.
+67,Home,Color is completely different from the website. Ugly.
+68,Home,Standard curtain. Does the job of blocking light.
+69,Home,Very stylish lamp. Adds a great vibe to the room.
+70,Home,The legs of the table are uneven. It wobbles constantly.
+71,Electronics,Este teléfono es increíble. La cámara es fantástica.
+72,Electronics,Mala calidad. El altavoz dejó de funcionar.
+73,Electronics,Es aceptable por el precio. Nada del otro mundo.
+74,Electronics,Excelente velocidad y pantalla muy nítida.
+75,Electronics,Se apaga solo. No lo recomiendo para nada.
+76,Beauty,Ce produit est magnifique. Ma peau est éclatante.
+77,Beauty,Mauvaise réaction allergique. Très déçue.
+78,Beauty,C'est moyen. L'odeur est un peu trop forte.
+79,Beauty,Une qualité exceptionnelle. Je l'achèterai à nouveau.
+80,Beauty,Trop gras pour ma peau. Je ne l'aime pas.
+81,Toys,Tolles Spielzeug! Mein Kind ist begeistert.
+82,Toys,Kaputt geliefert. Sehr ärgerlich.
+83,Toys,Es ist in Ordnung. Einfaches Plastik.
+84,Toys,Sehr lehrreich und macht viel Spaß.
+85,Toys,Fernbedienung defekt. Keine Kaufempfehlung.
+86,Home,Der Teppich ist weich und sieht super aus.
+87,Home,Farbe stimmt nicht. Sieht billig aus.
+88,Home,Normaler Vorhang. Erfüllt seinen Zweck.
+89,Home,Sehr schöne Lampe. Tolles Licht.
+90,Home,Wackelt total. Schlechte Verarbeitung.
+91,Electronics,Unusable. Bluetooth connectivity is non-existent.
+92,Electronics,Value for money. Best budget smartphone in the market.
+93,Books,A literary disaster. Don't waste your credits on this.
+94,Kitchen,Standard coffee maker. Makes a decent cup of joe.
+95,Kitchen,Life-saving appliance for a busy mom. Love it!
+96,Beauty,Luxury in a bottle. Feels like a spa treatment.
+97,Toys,Interactive and loud. Maybe too loud for parents!
+98,Home,Heavy duty shelf. Holds all my tools perfectly.
+99,Home,Cheap material. The wood split during assembly.
+100,Electronics,The future of tech. Seamless integration with my smart home.
